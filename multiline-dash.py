@@ -1,4 +1,4 @@
-SCRIPT_NAME    = "multiline-alias"
+SCRIPT_NAME    = "multiline-dash"
 SCRIPT_AUTHOR  = "eyJhb <eyjhbb@gmail.com>"
 SCRIPT_VERSION = "0.1"
 SCRIPT_LICENSE = "GPLv3"
