@@ -9,7 +9,7 @@ import_ok = True
 try:
    import weechat as w
 except:
-   print "Script must be run under weechat. http://www.weechat.org"
+   print("Script must be run under weechat. http://www.weechat.org")
    import_ok = False
 
 def convert_dash_to_newline(data, modifier, modifier_data, string):
